@@ -4,4 +4,4 @@ API projetada em Node.js integrada com um projeto de front-end feito em React. P
 
 Necessário: Vite.js, Sass, AXIOS
 
-Link do Site:
+Link do Site: https://desafio5-api-dnc.netlify.app/
